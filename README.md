@@ -240,7 +240,7 @@ The software is provided “as is”, without warranty of any kind.
 
 See:
 - [`LICENSE`](./LICENSE)
-- [`TERMS_OF_USE.md`](./TERMS_OF_USE.md)
+- [`TERMS_OF_USE.md`](./TERMS.md)
 
 ---
 
