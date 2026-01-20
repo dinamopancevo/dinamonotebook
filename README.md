@@ -1,5 +1,3 @@
- ⚽ Dinamo Notebook
-
 Dinamo Notebook is an open-source browser extension for football video analysis and tactical drawing.
 
 It’s built for people who *think* about the game — analysts, coaches, developers, and fans who want better tools to break football down, frame by frame.
@@ -7,8 +5,6 @@ It’s built for people who *think* about the game — analysts, coaches, develo
 Created by Sergei Arlov at Dinamo 1945 Pančevo (Serbia).
 
 ---
-
- 🎯 Mission
 
 Football analysis shouldn’t be locked behind expensive platforms or closed ecosystems.
 
@@ -23,8 +19,6 @@ give the football community a powerful, transparent, local-first tool for unders
 
 ---
 
- 🆓 Free & Open Source (MIT Licensed)
-
 - 100% free — no subscriptions, no paid tiers  
 - MIT licensed — free to use, modify, and build upon  
 - Open source — all code is public and auditable  
@@ -38,10 +32,6 @@ All analysis data stays on your machine.
 
 ---
 
- ✨ Core Capabilities
-
- 🎥 Supported Video Platforms
-
 Dinamo Notebook works directly on:
 - YouTube (`youtube.com`, `youtu.be`)
 - Dailymotion
@@ -52,7 +42,7 @@ Analyze the video where it already lives.
 
 ---
 
- 🧠 AI-Assisted Analysis *(Optional)*
+AI-Assisted Analysis (Optional)
 
 Requires your own OpenAI API key.
 
@@ -67,7 +57,7 @@ You decide what to ask and when to use it.
 
 ---
 
- 🎨 Tactical Drawing & Visualization
+Tactical Drawing & Visualization
 
 Professional-grade tools designed specifically for football analysis:
 
@@ -83,7 +73,7 @@ Perfect for match analysis, training preparation, or presentations.
 
 ---
 
- 💾 Local Data Management
+Local Data Management
 
 Your analysis is structured, searchable, and portable:
 
@@ -97,19 +87,19 @@ You own your data. Always.
 
 ---
 
- 📤 Export & Presentation
+Export & Presentation
 
 Turn analysis into something you can share:
 
-- 📄 PDF reports  
-- 🖼 High-resolution images (PNG / JPEG)  
-- 🎞 Animated GIFs for tactical sequences  
-- 📊 Raw data export (JSON / CSV)  
-- 🖥 Presentation mode for meetings or coaching sessions  
+- PDF reports  
+- High-resolution images (PNG / JPEG)  
+- Animated GIFs for tactical sequences  
+- Raw data export (JSON / CSV)  
+- Presentation mode for meetings or coaching sessions  
 
 ---
 
- 🌍 Multi-Language Support
+Multi-Language Support
 
 Built for a global football audience:
 
@@ -124,7 +114,7 @@ More languages are welcome via community contributions.
 
 ---
 
- 📦 Installation
+Installation
 
  Chrome / Edge
 1. Download or clone the repository  
@@ -140,7 +130,7 @@ Planned. Not yet released.
 
 ---
 
- ⚙️ Optional: OpenAI Setup
+Optional: OpenAI Setup
 
 Only required for AI features.
 
@@ -153,7 +143,7 @@ The key is stored locally in your browser.
 
 ---
 
- 🚀 Typical Workflow
+Typical Workflow
 
 1. Open a match video on a supported platform  
 2. The Dinamo Notebook sidebar appears automatically  
@@ -168,7 +158,7 @@ Simple, fast, and repeatable.
 
 ---
 
- 🔒 Privacy & Security
+Privacy & Security
 
 Dinamo Notebook follows a strict zero-collection policy:
 
@@ -185,7 +175,7 @@ For full details, see [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md).
 
 ---
 
- 🧩 Browser Permissions Explained
+Browser Permissions Explained
 
 - Storage — save projects locally  
 - Active Tab — interact with video players  
@@ -195,7 +185,7 @@ Nothing more.
 
 ---
 
- ⚠️ Copyright & Legal Use Disclaimer
+ Copyright & Legal Use Disclaimer
 
 Dinamo Notebook is a neutral analysis tool.
 
@@ -211,7 +201,7 @@ Any unauthorized recording, capture, or use of copyrighted material is the respo
 
 ---
 
- 🤝 Community & Contributions
+Community & Contributions
 
 This project is community-driven.
 
@@ -238,7 +228,7 @@ Experimental ideas are especially welcome around:
 
 ---
 
- 📜 License
+ License
 
 This project is licensed under the MIT License.
 
@@ -254,7 +244,7 @@ See:
 
 ---
 
- 👤 About the Creator
+About the Creator
 
 Sergei Arlov  
 Founder & developer of Dinamo Notebook  
@@ -266,7 +256,7 @@ Believer in open systems always.
 
 ---
 
- 🌱 Why This Exists
+Why This Exists
 
 Most football analysis tools are:
 - expensive  
@@ -282,7 +272,7 @@ Dinamo Notebook is an alternative:
 
 ---
 
- ⚽ Join In
+Join In
 
 If you love football and like to understand it —  
 you’re already in the right place.
